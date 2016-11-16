@@ -36,6 +36,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tdionysius2f2", "..\..\..\.
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tdionysius2g1", "..\..\..\..\Desktop\Program Stuff\Visual Basic\VB2015\Chap05\Jetters Solution\Jetters Project\tdionysius2g1.vbproj", "{B448F313-7C90-44A9-AF5D-8632D3A0B73F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tdionysius2i1", "WindowsApplication4\tdionysius2i1.vbproj", "{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,14 @@ Global
 		{B448F313-7C90-44A9-AF5D-8632D3A0B73F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B448F313-7C90-44A9-AF5D-8632D3A0B73F}.Release|x86.ActiveCfg = Release|Any CPU
 		{B448F313-7C90-44A9-AF5D-8632D3A0B73F}.Release|x86.Build.0 = Release|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Debug|x86.Build.0 = Debug|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Release|x86.ActiveCfg = Release|Any CPU
+		{A41E0877-2F73-4AC3-9B84-AD08A6B07CEF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
